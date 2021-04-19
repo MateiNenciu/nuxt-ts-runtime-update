@@ -1,4 +1,4 @@
-# nuxt-test-1
+# nuxt-test-runtime
 
 ## Build Setup
 
@@ -12,7 +12,7 @@ $ npm run dev
 # build for production and launch server
 $ npm run build
 $ npm run start # for nuxt build-in
-$ npm run start # for nuxt/typescript-runtime
+$ npm run start-ts-runtime # for nuxt/typescript-runtime
 
 # generate static project
 $ npm run generate

@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-test-1",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "start-ts-runtime": "nuxt-ts start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.9.1",
+    "nuxt": "2.15.4",
+    "express": "4.17.1",
+    "@nuxt/typescript-runtime": "2.0.1"
+  },
+  "devDependencies": {
+    "@nuxt/types": "2.15.4",
+    "@nuxt/typescript-build": "^2.1.0"
+  }
+}
